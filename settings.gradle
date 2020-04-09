@@ -1,0 +1,2 @@
+rootProject.name='GGmap_part2'
+include ':app'
